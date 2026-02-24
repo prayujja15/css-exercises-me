@@ -2,6 +2,9 @@ div {
     color:white;
     background-color: red;
     font-size:32px;
-    align-items: center;
-    font-weight: bold;
+    text-align: center; 
+    font-weight :  bold;
+    /* I USED ALIGN-ITEM INSTEAD OF TEXT-ALIGN  
+    ALIGN-ITEM - vertical alignment and aligns container
+    while TEXT-ALIGN horizontal and only yhe text is aligned*/
 }
