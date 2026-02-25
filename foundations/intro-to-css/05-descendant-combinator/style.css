@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+html{
+    background-color: white;
+}
+div p{
+    font-size:20px;
+    text-align:center;
+    color:red;
+    background-color: yellow;
+
+}
