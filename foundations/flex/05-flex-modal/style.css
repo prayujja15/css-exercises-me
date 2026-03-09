@@ -14,7 +14,15 @@ body {
   align-items: center;
   justify-content: center;
 }
+.up{
+  display: flex;
+  align-items : center;
+  gap:20px;
 
+}
+.close-button{
+  margin-left: 120px;
+}
 .modal {
   background: white;
   width: 480px;
@@ -49,7 +57,13 @@ body {
   border: 1px solid #eee;
   padding: 0;
 }
-
+.text {
+  margin: 20px;
+}
+.down{
+  margin:10px;
+  margin-left:50px;
+}
 button {
   cursor: pointer;
   padding: 8px 16px;
